@@ -2,5 +2,5 @@
   "name": "Chung Official",
   "symbol": "CHUNG",
   "description": "Official CHUNG token.",
-  "image": "todo"
+  "image": "https://raw.githubusercontent.com/andrewchungg/solana_test_token/8a11f75813c230c003e8e0fbe9a1cb722d984220/tokenimage.jpg"
 }
